@@ -6,4 +6,3 @@ for i in range(1, len(A)):
         i -= 1
     A[i] = key
 print(A)
-print(A)
